@@ -1,5 +1,5 @@
 # Python-codes
-How to print the phone is correct or not in a given list.
+How to print the phone number is correct or not in a given list.
 
 
 num=['+91-9892615303','+91-9898989898','+98-1234567899','123456789','12456','+91-0123456789','+121-145452264']
