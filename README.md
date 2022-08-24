@@ -19,3 +19,5 @@ Invalid number:123456789
 Invalid number:12456
 Number is valid :+91-0123456789
 Invalid number:+121-145452264
+
+![image](https://user-images.githubusercontent.com/87379035/186409793-b773c608-1171-4153-9275-653870f914c1.png)
